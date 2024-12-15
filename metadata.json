@@ -1,6 +1,6 @@
 {
-    "name": "Example Token",
-    "symbol": "ZIT",
-    "description": "Zit Uzemmur coin",
+    "name": "Zit Coin",
+    "symbol": "ZTZ",
+    "description": "Olive oil coin (Zit n uzemmur)",
     "image": "https://raw.githubusercontent.com/belkacembenammar/zit/main/logo.png"
 }
